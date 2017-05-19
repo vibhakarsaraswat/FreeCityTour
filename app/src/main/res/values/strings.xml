@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">FreeCityTour</string>
+
+    <!-- Label for restaurant name [CHAR LIMIT=30] -->
+    <string name="str_rest_name_800grader">800 grader</string>
+    <string name="str_rest_name_chilimasala">Chili Masala Tandoori</string>
+    <string name="str_rest_name_cuminclub">Cumin Club Sodermalm</string>
+    <string name="str_rest_name_darmedpastahornstull">Darmedpasta Hornstull</string>
+    <string name="str_rest_name_hermans">Hermans Vegetarian Restaurant </string>
+    <string name="str_rest_name_indianstreetfood">Indian Street Food</string>
+    <string name="str_rest_name_sanktpaulspizzabutik">Sankt Pauls Pizzabutik</string>
+
+    <!-- Label for museum mame [CHAR LIMIT=30] -->
+    <string name="str_museum_name_nordiska">Nordiska museet</string>
+    <string name="str_museum_name_fareastern">Museum of Far Eastern Antiquities</string>
+    <string name="str_museum_name_hallwylska">Hallwylska Museet</string>
+    <string name="str_museum_name_moderna">Moderna Museet - Stockholm</string>
+    <string name="str_museum_name_thielska">Thiel Gallery (Thielska Galleriet)</string>
+    <string name="str_museum_name_ethnography">Museum of Ethnography</string>
+    <string name="str_museum_name_vasa">Vasa Museum</string>
+
+    <!-- Label for attraction name [CHAR LIMIT=30] -->
+    <string name="str_attraction_bridges">Stromma Under the Bridges of Stockholm</string>
+    <string name="str_attraction_drottningholm">Drottningholm Palace</string>
+    <string name="str_attraction_riddarholmen">Riddarholmen</string>
+    <string name="str_attraction_royaltheater">Royal Dramatic Theater</string>
+    <string name="str_attraction_bergianska">Bergianska Tradgarden</string>
+    <string name="str_attraction_cityhall">Stockholm City Hall</string>
+    <string name="str_attraction_kungstradgarden">Kungstradgarden Park</string>
+
+    <!-- Label for shopping center mames [CHAR LIMIT=30] -->
+    <string name="str_shopping_name_hotorget">Old Haymarket</string>
+    <string name="str_shopping_name_nk">Nordiska Kompaniet (NK)</string>
+    <string name="str_shopping_name_sturegallerian">Sturegallerian</string>
+    <string name="str_shopping_name_ostermalm">Ostermalm Saluhall</string>
+    <string name="str_shopping_name_mood">MOOD Stockholm</string>
+    <string name="str_shopping_name_sqob">Stockholm Quality Outlet Barkaby</string>
+    <string name="str_shopping_name_kulturhuset">Kulturhuset (the Culture House)</string>
+
+
+    <!-- Label for restaurant address [CHAR LIMIT=30] -->
+    <string name="str_rest_addr_800grader">17 Sigtunagatan | Metro St Eriksplan, Stockholm</string>
+    <string name="str_rest_addr_chilimasala">19 Hagalundsgatan Solna, 169 66 Stockholm</string>
+    <string name="str_rest_addr_cuminclub">43 Soedermannagatan, 116 40 Stockholm</string>
+    <string name="str_rest_addr_darmedpastahornstull">5 Laangholmsgatan, 117 33 Stockholm</string>
+    <string name="str_rest_addr_hermans">Fjällgatan 23B, 116 28 Stockholm</string>
+    <string name="str_rest_addr_indianstreetfood">116 Sankt Eriksgatan, 113 31 Stockholm</string>
+    <string name="str_rest_addr_sanktpaulspizzabutik">Sankt Paulsgatan 3, 118 46 Stockholm</string>
+
+    <!-- Label for museum address [CHAR LIMIT=30] -->
+    <string name="str_museum_addr_nordiska">Djurgardsvagen 6_16 | Djurgarden, Stockholm 115 93</string>
+    <string name="str_museum_addr_fareastern">Tyghusplan Skeppsholmen, Stockholm</string>
+    <string name="str_museum_addr_hallwylska">4 Hamngatan, Stockholm 111 47</string>
+    <string name="str_museum_addr_moderna">Skeppsholmen Stockholm 105 09</string>
+    <string name="str_museum_addr_thielska">68 Sjoetullsbacken Djurgarden, Stockholm 115 25</string>
+    <string name="str_museum_addr_ethnography">34 Djurgaardsbrunnsvaegen, Stockholm 115 27</string>
+    <string name="str_museum_addr_vasa">Galarvarvsvagen 14 Djurgarden, Stockholm 115 21</string>
+
+    <!-- Label for attraction address [CHAR LIMIT=30] -->
+    <string name="str_rest_addr_bridges">2 Nybroplan Stockholm 111 47</string>
+    <string name="str_rest_addr_drottningholm">Ekero Drottningholm, Stockholm 178 02</string>
+    <string name="str_rest_addr_riddarholmen">Norra Riddarholmshamnen, Stockholm</string>
+    <string name="str_rest_addr_royaltheater">Kungliga Dramatiska Teatern, Stockholm</string>
+    <string name="str_rest_addr_bergianska">4 Gustafsborgsvaegen, Stockholm 114 18</string>
+    <string name="str_rest_addr_cityhall">1 Hantverkargatan, Stockholm 112 21</string>
+    <string name="str_rest_addr_Kungstradgarden">Jussi Björlings allé 5, Stockholm 103 91</string>
+
+    <!-- Label for shopping center adrress [CHAR LIMIT=30] -->
+    <string name="str_shopping_addr_hotorget">Hotorget, Norrmalm, Stockholm 111 57</string>
+    <string name="str_shopping_addr_nk">820 Hamngatan, Stockholm 111 77</string>
+    <string name="str_shopping_addr_sturegallerian">4 Stureplan, Stockholm 114 35</string>
+    <string name="str_shopping_addr_ostermalm">Ostermalmstorg, Stockholm 114 39</string>
+    <string name="str_shopping_addr_mood">Regeringsgatan 48, Stockholm 111 44</string>
+    <string name="str_shopping_addr_sqob">Flyginfarten 4, Jarfalla 177 38</string>
+    <string name="str_shopping_addr_kulturhuset">Sergels torg, Stockholm 103 27</string>
+
+
+    <!-- Label for restaurant phone [CHAR LIMIT=30] -->
+    <string name="str_rest_phone_800grader">0840820570</string>
+    <string name="str_rest_phone_chilimasala">08277000</string>
+    <string name="str_rest_phone_cuminclub">086441001</string>
+    <string name="str_rest_phone_darmedpastahornstull">086683402</string>
+    <string name="str_rest_phone_hermans">086439480</string>
+    <string name="str_rest_phone_indianstreetfood">087540056</string>
+    <string name="str_rest_phone_sanktpaulspizzabutik">086424645</string>
+
+    <!-- Label for museum phone [CHAR LIMIT=30] -->
+    <string name="str_museum_phone_nordiska">0851954600</string>
+    <string name="str_museum_phone_fareastern">01084561297</string>
+    <string name="str_museum_phone_hallwylska">084023099</string>
+    <string name="str_museum_phone_moderna">0851955289</string>
+    <string name="str_museum_phone_thielska">086625884</string>
+    <string name="str_museum_phone_ethnography">0851955000</string>
+    <string name="str_museum_phone_vasa">0851954800</string>
+
+    <!-- Label for attraction phone [CHAR LIMIT=30] -->
+    <string name="str_rest_phone_bridges">0812004000</string>
+    <string name="str_rest_phone_drottningholm">084026200</string>
+    <string name="str_rest_phone_riddarholmen">0850828500</string>
+    <string name="str_rest_phone_royaltheater">086670680</string>
+    <string name="str_rest_phone_bergianska">08163500</string>
+    <string name="str_rest_phone_cityhall">0850829058</string>
+    <string name="str_rest_phone_kungstradgarden">0855510090</string>
+
+    <!-- Label for shopping center phone [CHAR LIMIT=30] -->
+    <string name="str_shopping_phone_hotorget">08230001</string>
+    <string name="str_shopping_phone_nk">087628000</string>
+    <string name="str_shopping_phone_sturegallerian">084535000</string>
+    <string name="str_shopping_phone_ostermalm">0080000000</string>
+    <string name="str_shopping_phone_mood">01084526098</string>
+    <string name="str_shopping_phone_sqob">08852218241</string>
+    <string name="str_shopping_phone_kulturhuset">0850831508</string>
+
+
+    <!-- Categories -->
+    <string name="category_section_1">Attraction</string>
+    <string name="category_section_2">Museum</string>
+    <string name="category_section_3">Restaurant</string>
+    <string name="category_section_4">Shopping</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
