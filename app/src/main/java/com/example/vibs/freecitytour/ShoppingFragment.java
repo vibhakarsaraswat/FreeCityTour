@@ -19,7 +19,7 @@ public class ShoppingFragment extends Fragment {
         // Required empty public constructor
     }
 
-    public static ShoppingFragment newInstance(){
+    public static ShoppingFragment newInstance() {
         ShoppingFragment fragment = new ShoppingFragment();
         return fragment;
     }

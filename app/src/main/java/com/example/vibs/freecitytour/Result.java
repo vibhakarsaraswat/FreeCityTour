@@ -5,7 +5,9 @@ package com.example.vibs.freecitytour;
  */
 
 public class Result {
-    /** Resource IDs for a Place */
+    /**
+     * Resource IDs for a Place
+     */
     private int mImageOfPlaceId;
     private int mNameOfPlaceId;
     private int mAddressOfPlaceId;
@@ -21,16 +23,19 @@ public class Result {
     }
 
     // Getter methods for Place resources.
-    public int getImageOfPlaceId(){
+    public int getImageOfPlaceId() {
         return mImageOfPlaceId;
     }
-    public int getNameOfPlaceId(){
+
+    public int getNameOfPlaceId() {
         return mNameOfPlaceId;
     }
-    public int getAddressOfPlaceId(){
+
+    public int getAddressOfPlaceId() {
         return mAddressOfPlaceId;
     }
-    public int getContactOfPlaceId(){
+
+    public int getContactOfPlaceId() {
         return mContactOfPlaceId;
     }
 

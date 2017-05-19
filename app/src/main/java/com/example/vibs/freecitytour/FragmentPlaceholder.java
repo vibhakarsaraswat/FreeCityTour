@@ -13,10 +13,11 @@ import android.view.ViewGroup;
 public class FragmentPlaceholder extends Fragment {
 
     private static final String ARG_SECTION_NUMBER = "section_number";
+
     public FragmentPlaceholder() {
     }
 
-    public static FragmentPlaceholder newInstance(int sectionNumber){
+    public static FragmentPlaceholder newInstance(int sectionNumber) {
         FragmentPlaceholder fragment = new FragmentPlaceholder();
         Bundle args = new Bundle();
         args.putInt(ARG_SECTION_NUMBER, sectionNumber);

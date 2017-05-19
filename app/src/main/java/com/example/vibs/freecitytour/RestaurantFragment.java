@@ -19,7 +19,7 @@ public class RestaurantFragment extends Fragment {
         // Required empty public constructor
     }
 
-    public static RestaurantFragment newInstance(){
+    public static RestaurantFragment newInstance() {
         RestaurantFragment fragment = new RestaurantFragment();
         return fragment;
     }

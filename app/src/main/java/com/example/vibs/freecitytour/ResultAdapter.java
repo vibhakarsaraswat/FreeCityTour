@@ -47,8 +47,8 @@ public class ResultAdapter extends ArrayAdapter<Result> {
 
 
         View textContainer = listItemView.findViewById(R.id.text_container);
-//        int color = ContextCompat.getColor(getContext(), mColorResourceId);
-//        textContainer.setBackgroundColor(color);
+        int color = ContextCompat.getColor(getContext(), mColorResourceId);
+        textContainer.setBackgroundColor(color);
 
         return listItemView;
     }

@@ -19,7 +19,7 @@ public class MuseumFragment extends Fragment {
         // Required empty public constructor
     }
 
-    public static MuseumFragment newInstance(){
+    public static MuseumFragment newInstance() {
         MuseumFragment fragment = new MuseumFragment();
         return fragment;
     }

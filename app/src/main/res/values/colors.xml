@@ -7,9 +7,9 @@
     <color name="primary_color">#4A312A</color>
     <color name="primary_dark_color">#2F1D1A</color>
     <color name="tan_background">#FFF7DA</color>
-    <color name="categoryrestaurant">#FD8E09</color>
-    <color name="categorymuseum">#379237</color>
-    <color name="categoryattraction">#8800A0</color>
-    <color name="categoryshopping">#16AFCA</color>
+    <color name="categoryrestaurant">#FFFFFF</color>
+    <color name="categorymuseum">#FFFFFF</color>
+    <color name="categoryattraction">#FFFFFF</color>
+    <color name="categoryshopping">#FFFFFF</color>
 
 </resources>

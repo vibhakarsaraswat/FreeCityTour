@@ -19,7 +19,7 @@ public class AttractionFragment extends Fragment {
         // Required empty public constructor
     }
 
-    public static AttractionFragment newInstance(){
+    public static AttractionFragment newInstance() {
         AttractionFragment fragment = new AttractionFragment();
         return fragment;
     }
